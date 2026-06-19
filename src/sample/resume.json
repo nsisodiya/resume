@@ -1,0 +1,168 @@
+{
+  "page": {
+    "size": "letter",
+    "margin": "0.6in"
+  },
+  "header": {
+    "name": "Narendra Sisodiya",
+    "title": "IITian | Tech Entrepreneur",
+    "links": {
+      "Mobile (+91-9891341086)": "+919891341086",
+      "Email (hello@sisodiyaa.com)": "hello@sisodiyaa.com",
+      "India": "India",
+      "GitHub": "http://github.com/nsisodiya",
+      "LinkedIn": "http://linkedin.com/in/narendra-sisodiya"
+    }
+  },
+  "sections": [
+    {
+      "title": "About",
+      "type": "timeline",
+      "entries": [
+        {
+          "title": "Professional Summary",
+          "bullets": [
+            "16+ years building and scaling enterprise web and cloud-native systems.",
+            "Hands-on leader across full stack, DevOps, cloud, and AI-driven platforms.",
+            "Delivered end-to-end systems from architecture to production at scale.",
+            "Led engineering teams up to 14, owning architecture, delivery, and mentoring.",
+            "Founder/CTO experience focused on product thinking and system design."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "type": "timeline",
+      "entries": [
+        {
+          "title": "Indian Institute of Technology (IIT) Delhi",
+          "subtitle": "<b>M.Tech, Computers</b>",
+          "date": "2006 - 2008"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "type": "keyValue",
+      "entries": [
+        {
+          "AI": "LLM API, RAG, Multi Agent Orchestration, Function calling, AI tooling, Token optimization, Caching & fallback strategies, Structured outputs (JSON reliability), Local LLM, LM Studio",
+          "Application Stack": "Node.js, Express, GraphQL, WebSocket, JWT, Auth0, Microservices, MongoDB, PostgreSQL, Mongoose, Sequelize, TypeScript, React, Web Components, SPA, GraphQL, Apollo, Ant Design, Tailwind CSS, Vite, AWS (EC2, S3, Lambda, ECS, EKS, ECR, RDS, Route53), Docker, Kubernetes, Terraform, CDK, Pulumi, GitLab CI/CD, NX Monorepo, Nginx"
+        }
+      ]
+    },
+    {
+      "title": "Professional Experience",
+      "type": "timeline",
+      "entries": [
+        {
+          "title": "Cimpress (Vistaprint)",
+          "subtitle": "Principal Software Engineer",
+          "location": "Remote",
+          "date": "Nov 2022 - Jun 2024",
+          "bullets": [
+            "Contributed to large-scale, high-traffic product experiences."
+          ]
+        },
+        {
+          "title": "Prophecy.io",
+          "subtitle": "Software Architect",
+          "location": "Remote",
+          "date": "Sep 2020 - Mar 2022",
+          "bullets": [
+            "Established architecture and engineering foundations."
+          ]
+        },
+        {
+          "title": "Syngenta",
+          "subtitle": "Technical Manager / Architect",
+          "location": "Pune",
+          "date": "Jul 2019 - Aug 2020",
+          "bullets": [
+            "Built engineering team and established technical culture.",
+            "Delivered Node.js/Fastify microservices.",
+            "Implemented Terraform/Pulumi infrastructure.",
+            "Built CI/CD pipelines and AWS deployments.",
+            "Established reusable frontend architecture and strict code quality."
+          ]
+        },
+        {
+          "title": "Rivigo",
+          "subtitle": "Principal Engineer",
+          "location": "Gurgaon",
+          "date": "Nov 2018 - Jun 2019",
+          "bullets": [
+            "Led and mentored a 12-member engineering team, owning architecture, delivery, and hiring.",
+            "Implemented CI/CD, Docker, Ansible, and performance optimization initiatives to improve scalability and reliability.",
+            "Drove frontend modernization with reusable components, multilingual support, theming, and Headless CMS solutions."
+          ]
+        },
+        {
+          "title": "Billexo Technologies",
+          "subtitle": "Founder / CTO",
+          "location": "Pune",
+          "date": "Nov 2016 - Nov 2018",
+          "bullets": [
+            "Built a UPI-based mobile payment platform from scratch."
+          ]
+        },
+        {
+          "title": "Roomville / Hotelsoft",
+          "subtitle": "Engineering Manager & Full Stack Developer",
+          "location": "Bengaluru",
+          "date": "Jun 2015 - Nov 2016",
+          "bullets": [
+            "Built cloud-based hotel management software.",
+            "Led a team of 8-9 developers.",
+            "Designed full-stack architecture."
+          ]
+        },
+        {
+          "title": "Unicommerce",
+          "subtitle": "UI Architect / Head UI Team",
+          "location": "Delhi",
+          "date": "Jul 2013 - May 2015",
+          "bullets": [
+            "Architected and built the complete SPA frontend from scratch.",
+            "Created reusable UI architecture. Developed internal tooling and framework.",
+            "Built and mentored a six-member frontend team."
+          ]
+        },
+        {
+          "title": "Clickable / Syncapse",
+          "subtitle": "Consultant → SDE-1 → SDE-2 → SDE-3",
+          "location": "Gurgaon",
+          "date": "Nov 2011 - Jul 2013",
+          "bullets": [
+            "Migrated legacy product to a modern SPA.",
+            "Implemented responsive UI and modular architecture.",
+            "Received three promotions within 17 months."
+          ]
+        },
+        {
+          "title": "Tejas Networks",
+          "subtitle": "R&D Engineer",
+          "location": "Bengaluru",
+          "date": "Jul 2008 - Dec 2009",
+          "bullets": [
+            "Worked on optical network management software, Java Applet UI."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Open Source & Community",
+      "type": "timeline",
+      "entries": [
+        {
+          "title": "Open Source Contributions",
+          "bullets": [
+            "Created SVG-Edit (2009), the world's first in-browser SVG editor.",
+            "Managed IITD-LUG community supporting FOSS initiatives."
+          ]
+        }
+      ]
+    }
+  ]
+}
