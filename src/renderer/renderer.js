@@ -12,10 +12,30 @@ export function renderResume(json, container) {
 
   // Apply page styling from JSON
   if (json.page) {
+    // Apply screen padding
     if (json.page.margin) {
       container.style.padding = json.page.margin;
     }
-    // We could add more page styles if needed here
+    
+    // Inject dynamic print styling for page margin
+    let printStyleEl = document.getElementById('dynamic-print-style');
+    if (!printStyleEl) {
+      printStyleEl = document.createElement('style');
+      printStyleEl.id = 'dynamic-print-style';
+      document.head.appendChild(printStyleEl);
+    }
+    
+    const marginValue = json.page.margin || '0.6in';
+    printStyleEl.textContent = `
+      @media print {
+        @page {
+          margin: ${marginValue} !important;
+        }
+        #resume-container {
+          padding: 0 !important;
+        }
+      }
+    `;
   }
 
   // Render Header

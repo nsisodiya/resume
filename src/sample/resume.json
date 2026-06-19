@@ -57,6 +57,19 @@
       "type": "timeline",
       "entries": [
         {
+          "title": "Stealth Startup (Stealth Mode)",
+          "subtitle": "Founder | Principal Architect | Full-Stack System Builder",
+          "location": "India (Remote)",
+          "date": "Jan 2025 - Present",
+          "bullets": [
+            "Developed AI-driven systems including LLM-based agents, workflow automation tools, and custom MCP-style integrations.",
+            "Built a website builder platform enabling dynamic page creation, reusable components, and structured content rendering.",
+            "Designed and implemented multi-agent orchestration systems for automating engineering and business workflows.",
+            "Architected production-grade backend systems with focus on scalability, modularity, and high-transaction B2B workloads.",
+            "Built modular, API-first backend systems optimized for scalability and high transaction workflows."
+          ]
+        },
+        {
           "title": "Cimpress (Vistaprint)",
           "subtitle": "Principal Software Engineer",
           "location": "Remote",
