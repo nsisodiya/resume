@@ -5,13 +5,13 @@
   },
   "header": {
     "name": "Narendra Sisodiya",
-    "title": "IITian | Tech Entrepreneur",
+    "title": "IITian | Tech Architect, Entrepreneur & Leader",
     "links": {
       "Mobile (+91-9891341086)": "+919891341086",
       "Email (hello@sisodiyaa.com)": "hello@sisodiyaa.com",
       "India": "India",
-      "GitHub": "http://github.com/nsisodiya",
-      "LinkedIn": "http://linkedin.com/in/narendra-sisodiya"
+      "GitHub (github.com/nsisodiya)": "http://github.com/nsisodiya",
+      "LinkedIn (linkedin.com/in/narendra-sisodiya)": "http://linkedin.com/in/narendra-sisodiya"
     }
   },
   "sections": [
@@ -83,9 +83,7 @@
           "subtitle": "Software Architect",
           "location": "Remote",
           "date": "Sep 2020 - Mar 2022",
-          "bullets": [
-            "Established architecture and engineering foundations."
-          ]
+          "bullets": ["Established architecture and engineering foundations."]
         },
         {
           "title": "Syngenta",
@@ -116,9 +114,7 @@
           "subtitle": "Founder / CTO",
           "location": "Pune",
           "date": "Nov 2016 - Nov 2018",
-          "bullets": [
-            "Built a UPI-based mobile payment platform from scratch."
-          ]
+          "bullets": ["Built a UPI-based mobile payment platform from scratch."]
         },
         {
           "title": "Roomville / Hotelsoft",
